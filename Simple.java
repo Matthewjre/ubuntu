@@ -4,6 +4,5 @@ class Simple{
 		System.out.println("Hello Java");
 		//howdy
 		//again
-		//third comment
 	}
 }
